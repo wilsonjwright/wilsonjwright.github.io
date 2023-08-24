@@ -1,6 +1,6 @@
 ---
-title: "Professor Whiskers"
-logo: catStat.png
+title: "Wilson Wright"
+logo: PhotoMe.jpg
 description:
 ---
 
