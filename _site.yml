@@ -12,4 +12,4 @@ output:
     includes:
       before_body: logo-option.html
     css: style.css
-    theme: sandstone
+    theme: yeti
