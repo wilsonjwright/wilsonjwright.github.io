@@ -1,0 +1,9 @@
+.upper-right-logo {
+  margin-top: 20px;
+  height: 600px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 40%;
+  float: left;
+}
