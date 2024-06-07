@@ -5,7 +5,7 @@ title: "Research"
 My research is focused on spatial statistics and Bayesian statistics.
 The methods I develop are typically motivated by ecological and environmental applications.
 Data from these applications can be challenging to analyze because they often include complex observation processes, hierarchical structure, and spatio-temporal dependence.
-Click the links below to read more about some of the projects I have worked on, but also see my [Publications](publications.html) for more details about my research.
+Click the links below to read more about some of the projects I have worked on, but also see my [publications](publications.html) for more details about my research.
 
 ### [Impacts of heavy metal pollutants on vegetation](research1.html)
 
