@@ -3,8 +3,10 @@ output_dir: docs
 navbar:
   title: "Wilson J. Wright"
   left:
-    - text: "About me"
+    - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
     - text: "Publications"
       href: publications.html
     - text: "CV"

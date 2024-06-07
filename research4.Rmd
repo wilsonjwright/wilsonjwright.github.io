@@ -1,0 +1,9 @@
+---
+title: "Continuous-space occupancy models"
+---
+
+Occupancy models are commonly used to map the distribution of a species while accounting for imperfect detection.
+While the species occurrence process is generally assumed to have a continuous support, occupancy data are collected at areal survey units.
+During my PhD, I developed the first occupancy model to include a change of spatial support.
+This is beneficial because it allows for more realistic models about the species occurrence process while still properly accounting for the discrete spatial support of the observed data.
+This model also allows for only a portion of a site to be occupied and relates the probability of detecting a species to these within-site occupancy proportions.

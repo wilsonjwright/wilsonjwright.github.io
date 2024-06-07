@@ -1,0 +1,13 @@
+---
+title: "Impacts of heavy metal pollutants on vegetation"
+---
+
+Part of my PhD dissertation was motivated heavy metal data collected in Cape Krusenstern National Monument (CAKR), Alaska, USA.
+I developed a mechanistic spatial model for these data that characterizes the spatial dependence using an atmospheric dispersion partial differential equation.
+This approach better incorporates scientific knowledge about the source of these pollutants and how they spread in the atmosphere.
+This model is particularly useful for considering forecasts of different scenarios of interest.
+
+I also developed a new model for plant cover data collected using the point-intercept method.
+This approach uses multiscale clipped Gaussian processes to analyze data collected for multiple species.
+The dependence among species helps describe the community structure and my model allowed it to vary with predictor variables.
+I applied this model to vegetation data collected in CAKR to better understand how heavy metal pollutants impact the vegetation communities there.

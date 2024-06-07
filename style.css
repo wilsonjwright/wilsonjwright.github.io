@@ -12,6 +12,10 @@ ul {
  overflow: hidden;
 }
 
+p {
+  overflow: hidden;
+}
+
 .profile-picture {
   border-radius: 50%;
   display: block;
