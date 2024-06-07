@@ -1,0 +1,27 @@
+---
+title: "Publications"
+---
+
+- PN Neitlich, **WJ Wright**, E Di Meglio, AE Shiel, CJ Hampton-Miller, and MB Hooten (2024). [Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017.](https://doi.org/10.1371/journal.pone.0297777) *PLoS ONE* 19 (2), e0297777.
+
+- **WJ Wright**, PN Neitlich, AE Shiel, and MB Hooten (2022). [Mechanistic spatial models for heavy metal pollution.](https://doi.org/10.1002/env.2760) *Environmetrics* 33 (8), e2760.
+
+- C Stratton, KM Irvine, KM Banner, **WJ Wright**, C Lausen, and J Rae (2022). [Coupling validation effort with in situ bioacoustic data improves estimating relative activity and occupancy for multiple species with cross-species misclassifications.](https://doi.org/10.1111/2041-210X.13831) *Methods in Ecology and Evolution* 13 (6), 1288--1303.
+
+- **WJ Wright**, KM Irvine, TJ Rodhouse, and AR Litt (2021). [Spatial Gaussian processes improve multi-species occupancy models when range boundaries are uncertain and nonoverlapping.](https://doi.org/10.1002/ece3.7629) *Ecology and Evolution* 11 (13), 8516--8527.
+
+- E Shanahan, **WJ Wright**, and KM Irvine (2021). [Adaptive monitoring in action: Reconsidering design-based estimators reveals underestimation of whitebark pine disease prevalence in the Greater Yellowstone Ecosystem.](https://doi.org/10.1111/1365-2664.13837) *Journal of Applied Ecology* 58 (5), 1079--1089.
+
+- **WJ Wright**, KM Irvine, ES Almberg, and AR Litt (2020). [Modeling misclassification in multi-species acoustic data when estimating occupancy and relative activity.](https://doi.org/10.1111/2041-210X.13315) *Methods in Ecology and Evolution* 11(1), 71--81.
+
+- KM Irvine, **WJ Wright**, EK Shanahan, and TJ Rodhouse (2019). [Cohesive framework for modeling plant cover class data.](https://doi.org/10.1111/2041-210X.13262) *Methods in Ecology and Evolution* 10 (10), 1749--1760.
+
+- **WJ Wright**, KM Irvine, and MD Higgs (2019). [Identifying occupancy model inadequacies: can residuals separately assess detection and presence?](https://doi.org/10.1002/ecy.2703) *Ecology* 100 (6), e02703.
+
+- KM Irvine, TJ Rodhouse, **WJ Wright**, and AR Olsen (2018). [Occupancy modeling species-environment relationships with non-ignorable survey designs.](https://doi.org/10.1002/eap.1754) *Ecological Applications* 28 (6), 1616--1625.
+
+- KM Banner, KM Irvine, TJ Rodhouse, **WJ Wright**, RM Rodriguez, and AR Litt (2018). [Improving geographically extensive acoustic survey designs for modeling species occurrence with imperfect detection and misidentification.](https://doi.org/10.1002/ece3.4162) *Ecology and Evolution* 8 (12), 6144--6156.
+
+- **WJ Wright**, KM Irvine, JM Warren, and JK Barnett (2017). [Statistical design and analysis for plant cover studies with multiple sources of observation errors.](https://doi.org/10.1111/2041-210X.12825) *Methods in Ecology and Evolution* 8 (12), 1832--1841.
+
+- **WJ Wright**, KM Irvine, and TJ Rodhouse (2016). [A goodness-of-fit test for occupancy models with correlated within-season revisits.](https://doi.org/10.1002/ece3.2292) *Ecology and Evolution* 6 (15), 5404--5415.
