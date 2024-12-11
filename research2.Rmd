@@ -2,8 +2,8 @@
 title: "Bat occupancy and relative activity"
 ---
 
-Before my PhD, I collaborated with USGS, NPS, and multiple state agencies to analyze bat acoustic data collected for the North American Bat Monitoring Program (NABat).
-During this time, I worked on a variety of statistical challenges in occupancy modeling including the development of model assessments and and how to account for large scale spatial patterns.
+I collaborated with USGS, NPS, and multiple state agencies to analyze bat acoustic data collected for the North American Bat Monitoring Program (NABat).
+During these projects, I worked on a variety of statistical challenges in occupancy modeling including the development of model assessments and and how to account for large scale spatial patterns.
 
 A drawback of acoustic data is that observations are sometimes classified to the wrong species.
 Statistical methods to capture this observation process are required for using these data because ignoring species classification errors can lead to biased inferences about the underlying ecological processes of interest.

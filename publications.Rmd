@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+- **WJ Wright** and MB Hooten (2024) Continuous-space occupancy models. *Biometrics*, Accepted.
+
 - PN Neitlich, **WJ Wright**, E Di Meglio, AE Shiel, CJ Hampton-Miller, and MB Hooten (2024). [Mixed trends in heavy metal-enriched fugitive dust on National Park Service lands along the Red Dog Mine haul road, Alaska, 2006-2017.](https://doi.org/10.1371/journal.pone.0297777) *PLoS ONE* 19 (2), e0297777.
 
 - **WJ Wright**, PN Neitlich, AE Shiel, and MB Hooten (2022). [Mechanistic spatial models for heavy metal pollution.](https://doi.org/10.1002/env.2760) *Environmetrics* 33 (8), e2760.
