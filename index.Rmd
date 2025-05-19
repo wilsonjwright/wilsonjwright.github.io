@@ -9,6 +9,10 @@ in particular for applications in ecology and environmental science.
 
 ## Recent news
 
-New paper accepted in *Biometrics*:
+New Methodology Discussion paper published in *Biometrics*:
 
-- **WJ Wright** and MB Hooten (2024) Continuous-space occupancy models. *Biometrics*, Accepted.
+- **WJ Wright** and MB Hooten (2025) [Continuous-space occupancy models.](https://doi.org/10.1093/biomtc/ujaf055) *Biometrics*, 81(2): ujaf055.
+
+Be sure to read the discussion papers and our rejoinder:
+
+- **WJ Wright** and MB Hooten (2025) [Rejoinder to the discussion on "Continuous-space occupancy models."](https://doi.org/10.1093/biomtc/ujaf058) *Biometrics*, 81(2): ujaf058.
