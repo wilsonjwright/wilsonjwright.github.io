@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+- **WJ Wright**, PN Neitlich, and MB Hooten (2025) Clipped multiscale scale processes for multivariate vegetation data. *The Annals of Applied Statistics*.
+
 - **WJ Wright** and MB Hooten (2025) [Rejoinder to the discussion on "Continuous-space occupancy models."](https://doi.org/10.1093/biomtc/ujaf058) *Biometrics*, 81(2): ujaf058.
 
 - **WJ Wright** and MB Hooten (2025) [Continuous-space occupancy models.](https://doi.org/10.1093/biomtc/ujaf055) *Biometrics*, 81(2): ujaf055.
