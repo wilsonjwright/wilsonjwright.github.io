@@ -10,7 +10,7 @@ in particular for applications in ecology and environmental science.
 
 New paper accepted in *The Annals of Applied Statistics*:
 
-  - **WJ Wright**, PN Neitlich, and MB Hooten (2025) Clipped multiscale scale processes for multivariate vegetation data. *The Annals of Applied Statistics*.
+  - **WJ Wright**, PN Neitlich, and MB Hooten (2025) Clipped multiscale spatial processes for multivariate vegetation data. *The Annals of Applied Statistics*.
 
 New Methodology Discussion paper published in *Biometrics*:
 
