@@ -8,14 +8,14 @@ in particular for applications in ecology and environmental science.
 
 ## Recent news
 
-New paper accepted in *The Annals of Applied Statistics*:
+New paper published in *The Annals of Applied Statistics*:
 
-  - **WJ Wright**, PN Neitlich, and MB Hooten (2025) Clipped multiscale spatial processes for multivariate vegetation data. *The Annals of Applied Statistics*.
+  - **WJ Wright**, PN Neitlich, and MB Hooten (2025) [Clipped multiscale spatial processes for multivariate vegetation data](https://doi.org/10.1214/25-AOAS2088). *The Annals of Applied Statistics*, 19(4): 2918--2936.
 
 New Methodology Discussion paper published in *Biometrics*:
 
 - **WJ Wright** and MB Hooten (2025) [Continuous-space occupancy models.](https://doi.org/10.1093/biomtc/ujaf055) *Biometrics*, 81(2): ujaf055.
 
-Be sure to read the discussion papers and our rejoinder:
+    Be sure to read the discussion papers and our rejoinder:
 
 - **WJ Wright** and MB Hooten (2025) [Rejoinder to the discussion on "Continuous-space occupancy models."](https://doi.org/10.1093/biomtc/ujaf058) *Biometrics*, 81(2): ujaf058.
